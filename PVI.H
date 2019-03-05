@@ -1,3 +1,8 @@
+//Caroline Santos
+//Class for initial value problems(IVP)
+//Classe para problemas de valor inicial(PVI)
+
+
 #include<iostream>
 #include <cmath>
 using namespace std;
